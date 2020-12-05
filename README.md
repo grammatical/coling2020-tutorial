@@ -1,14 +1,16 @@
 # A Crash Course in Automatic Grammatical Error Correction
 
 This repository contains materials for our tutorial on automatic grammatical
-error correction: R. Grundkiewicz, C. Bryant, M. Felice: [A Crash Course in
+error correction: R. Grundkiewicz, C. Bryant, M. Felice: [_A Crash Course in
 Automatic Grammatical Error
-Correction](https://www.aclweb.org/anthology/2020.coling-tutorials.6/)
+Correction_](https://www.aclweb.org/anthology/2020.coling-tutorials.6/),
+COLING 2020.
 
 Links and materials:
 
-* [Slides](/slides/GEC_tutorial_2020.pdf)
-* [Tutorial proposal with the recommended reading list](https://www.aclweb.org/anthology/2020.coling-tutorials.6/)
+* [Tutorial proposal with the recommended reading list](https://www.aclweb.org/anthology/2020.coling-tutorials.6.pdf)
+* [Slides (Parts I-V)](/slides/GEC_tutorial_2020.pdf)
+* [Bibliography](/slides/gec2020.bib)
 
 
 ## Tutorial outline
@@ -59,7 +61,8 @@ Part V: Recent and future work
   author = "Grundkiewicz, Roman  and
   Bryant, Christopher  and
   Felice, Mariano",
-  booktitle = "Proceedings of the 28th International Conference on Computational Linguistics: Tutorial Abstracts",
+  booktitle = "Proceedings of the 28th International Conference
+               on Computational Linguistics: Tutorial Abstracts",
   month = dec,
   year = "2020",
   address = "Barcelona, Spain (Online)",
